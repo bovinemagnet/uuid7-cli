@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# Application binary
+uuid7-cli
+
 # Test binary, built with `go test -c`
 *.test
 
